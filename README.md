@@ -1,8 +1,16 @@
 # DO!CLI
 
-A modern TUI todo manager with a cappuccin tokyo night theme and ASCII banner.
+ ██████╗  ██████╗ ██╗ ██████╗██╗     ██╗
+██╔══██╗██╔═══██╗██║██╔════╝██║     ██║
+██║  ██║██║   ██║██║██║     ██║     ██║
+██║  ██║██║   ██║╚═╝██║     ██║     ██║
+██████╔╝╚██████╔╝██╗╚██████╗███████╗██║
+╚═════╝  ╚═════╝ ╚═╝ ╚═════╝╚══════╝╚═╝
+          D O ! C L I
 
-## Features
+
+* A modern TUI todo manager with a cappuccin tokyo night theme and ASCII banner. *
+## Key Features
 - Keyboard-first TUI
 - Cappuccin Tokyo Night palette
 - JSON-backed todo storage
